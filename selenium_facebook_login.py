@@ -1,6 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-from selenium import *
+
 
 driver = webdriver.Firefox()
 driver.get("https://www.facebook.com/")
